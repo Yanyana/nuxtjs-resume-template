@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "node-sass": "^4.9.2",
-    "nuxt": "^1.0.0",
+    "nuxt": "^2.14.6",
     "nuxt-sass-resources-loader": "^2.0.2",
     "sass-loader": "^7.0.3",
     "vue-awesome-swiper": "^3.1.3"
