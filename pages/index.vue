@@ -13,19 +13,19 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+              <a class="nav-link js-scroll-trigger" href="#about">Tentang</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+              <a class="nav-link js-scroll-trigger" href="#experience">Pengalaman</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+              <a class="nav-link js-scroll-trigger" href="#education">Pendidikan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+              <a class="nav-link js-scroll-trigger" href="#skills">Keterampilan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+              <a class="nav-link js-scroll-trigger" href="#interests">Minat</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>

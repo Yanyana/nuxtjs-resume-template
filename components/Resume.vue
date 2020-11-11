@@ -52,7 +52,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
-          <h2 class="mb-5">Experience</h2>
+          <h2 class="mb-5">Pengalaman</h2>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
@@ -102,7 +102,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
         <div class="my-auto">
-          <h2 class="mb-5">Education</h2>
+          <h2 class="mb-5">Pendidikan</h2>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
@@ -132,7 +132,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
         <div class="my-auto">
-          <h2 class="mb-5">Skills</h2>
+          <h2 class="mb-5">Keterampilan</h2>
 
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
           <ul class="list-inline list-icons">
@@ -197,7 +197,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
-          <h2 class="mb-5">Tertarik</h2>
+          <h2 class="mb-5">Minat</h2>
           <p>Selain sebagai pengembang web, saya menikmati sebagian besar waktu saya berada di luar ruangan. Saya menikmati joging dan naik gunung, berenang, dan bersepeda.</p>
           <p class="mb-0">saya mengikuti sejumlah film animasi, saya menghabiskan banyak waktu luang saya menjelajahi kemajuan teknologi terkini dalam pengembangan teknologi web dan front-end dan back-end.</p>
         </div>

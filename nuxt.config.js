@@ -26,9 +26,7 @@ module.exports = {
       { rel: 'stylesheet', type: 'text/css', href: 'https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css'},
       { rel: 'stylesheet', type: 'text/css', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css', integrity: 'sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB', crossorigin: 'anonymous'},
       { rel: 'stylesheet', type: 'text/css', href: 'https://use.fontawesome.com/releases/v5.1.0/css/all.css', integrity:'sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt', crossorigin:'anonymous'},
-
-    ] 
-    
+    ]
   },
 
   css: [
@@ -62,7 +60,7 @@ module.exports = {
   build: {
     /*
     ** Run ESLint on save
-    */
+    
     extend (config, { isDev, isClient }) {
       if (isDev && isClient) {
         config.module.rules.push({
@@ -84,18 +82,19 @@ module.exports = {
         // console.log(util.inspect(config.module.rules, { depth: 6 }))
       }
     }
+    */
   }
 }
 
-function changeLoaderOptions (loaders) {
-  if (loaders) {
-    for (const loader of loaders) {
-      if (loader.loader === 'sass-loader') {
-        Object.assign(loader.options, {
-          includePaths: ['./assets'],
-          // data: '@import "_imports";'
-        })
-      }
-    }
-  }
-}
+// function changeLoaderOptions (loaders) {
+//   if (loaders) {
+//     for (const loader of loaders) {
+//       if (loader.loader === 'sass-loader') {
+//         Object.assign(loader.options, {
+//           includePaths: ['./assets'],
+//           // data: '@import "_imports";'
+//         })
+//       }
+//     }
+//   }
+// }
