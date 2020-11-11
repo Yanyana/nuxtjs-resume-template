@@ -1,11 +1,11 @@
 {
-  "name": "resume-wahyu",
+  "name": "resume-yana",
   "version": "1.0.0",
-  "description": "Hi I'm Wahyu. I am a Presales Engineer, Fullstack Web and Android Developer.",
-  "author": "Wahyu",
+  "description": "Hi I'm Yana. I am a Fullstack Web Developer.",
+  "author": "Yana",
   "private": true,
   "scripts": {
-    "dev": "cross-env HOST=0.0.0.0 PORT=3333 nuxt",
+    "dev": "cross-env HOST=0.0.0.0 PORT=3000 nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",

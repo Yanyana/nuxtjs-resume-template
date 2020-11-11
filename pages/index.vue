@@ -1,8 +1,8 @@
 <template>
   <section>
-      <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-info fixed-top" id="sideNav">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
-          <span class="d-block d-lg-none">Resume Wahyu</span>
+          <span class="d-block d-lg-none">Resume Yana</span>
           <span class="d-none d-lg-block">
             <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/profile.jpg" alt="">
           </span>
@@ -27,12 +27,12 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="/gallery">Portfolio</a>
-            </li>
+            </li> -->
           </ul>
         </div>
       </nav>
