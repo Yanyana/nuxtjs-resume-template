@@ -30,6 +30,7 @@
                 </span>
               </a>
             </li> -->
+
             <li class="list-inline-item">
               <a target="blank" href="https://www.linkedin.com/in/yana-purnaya-1827a110b/">
                 <span class="fa-stack fa-lg">
