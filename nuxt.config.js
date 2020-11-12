@@ -7,7 +7,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Hi I&apos;m Wahyu. I am a Presales Engineer, Fullstack Web and Mobile (Android and iOS) Developer.' },
+      { hid: 'description', name: 'description', content: 'Hi I&apos;m Yana. I am a Fullstack Web Developer.' },
     ],
     script: [
       { src: 'https://code.jquery.com/jquery-3.3.1.js', type:'text/javascript', body: true},
